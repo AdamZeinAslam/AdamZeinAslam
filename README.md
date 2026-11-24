@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adam Zein Aslam and I'm a student at Kalbis University, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Adam Zein Aslam</h2>
 
 ###
 
