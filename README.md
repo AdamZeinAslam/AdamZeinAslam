@@ -2,8 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/U3jLeIfHfsHjCgdfTu/giphy.gif" />
-
+<img align="right" height="150" src="./monkey.gif" />
 ###
 
 <div align="left">
